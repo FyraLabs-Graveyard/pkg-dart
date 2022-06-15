@@ -5,7 +5,7 @@ Summary: The Dart Language
 License: BSD-3-Clause
 URL: https://dart.dev/
 
-
+BuildArch: x86_64
 Source0: https://storage.googleapis.com/dart-archive/channels/stable/release/%{version}/sdk/dartsdk-linux-x64-release.zip
 
 %description
